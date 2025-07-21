@@ -1,6 +1,6 @@
 # **✨ X-FACTOR: Diving Deeper into AI/ML/LLM Penetration Testing**
 
-You've explored the foundational vulnerabilities, understood the OWASP LLM Top 10, and now you're ready for more. This X-FACTOR.md file is for the curious, the relentless, and those who want to peel back the layers of AI security to reveal the less-trodden paths and emerging frontiers.
+You've explored the foundational vulnerabilities, understood the OWASP LLM Top 10, and now you're ready for more. This X-FACTOR.md file is for the curious, the relentles, and those who want to peel back the layers of AI security to reveal the less-trodden paths and emerging frontiers.
 
 This isn't just about identifying a vulnerability; it's about understanding the *art* and *science* of breaking and securing intelligent systems.
 
