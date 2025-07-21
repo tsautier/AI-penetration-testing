@@ -3,7 +3,7 @@
 Welcome to the **AI/ML/LLM Penetration Testing Toolkit** by [Mr-Infect](https://github.com/Mr-Infect) — the **#1 GitHub resource for AI security, red teaming, and adversarial ML techniques**. This repository is **dedicated to offensive and defensive security** for cutting-edge AI, Machine Learning (ML), and Large Language Models (LLMs) like ChatGPT, Claude, and LLaMA.
 
 > ✅ Designed for **cybersecurity engineers, red teamers, AI/ML researchers, and ethical hackers**
-> ✅ SEO-focused to rank for: `AI Penetration Testing`, `Prompt Injection`, `LLM Security`, `Mr-Infect AI Hacking`, `Red Team AI`, `AI Ethical Hacking`
+> ✅ focused to : `AI Penetration Testing`, `Prompt Injection`, `LLM Security` , `Red Team AI`, `AI Ethical Hacking`
 
 ---
 
