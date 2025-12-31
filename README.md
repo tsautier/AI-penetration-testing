@@ -164,4 +164,4 @@ $ git checkout -b feature/my-feature
 
 ---
 
-> ⭐️ Star this repository to help others discover top-tier content on AI/LLM penetration testing and prompt injection!
+> ⭐️ Star this repository to help others discover top-tier content on AI/LLM penetration testing along with security infra!
